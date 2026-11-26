@@ -1,10 +1,10 @@
 # Run Inmate, Run!
 
-**By Dulla-han**
+**By [@Dulla-han](https://github.com/Dulla-han)**
 
 Run Inmate, Run! is a 2D prison escape game. You play as a captured wizard trying to escape a dark prison, avoiding dangerous enemies, collecting useful items and solving challenges along the way.
 
-![The Wizard](src/main/resources/Player/standing1.png)
+![The Wizard](src/main/resources/Video/TheMain.png)
 
 ## Getting started
 
@@ -39,19 +39,19 @@ Move in four directions or diagonally using **W**, **A**, **S** and **D**. You c
 
 ### Time
 
-![Clock](src/main/resources/Items/clock.png)
+<img src="src/main/resources/Items/clock.png" width="80">
 
 You have 15 minutes to escape. Getting caught costs 60 seconds, and running out of time ends the game. The clock displays your remaining time above room exits.
 
 ### Lamp (E)
 
-![Lamp](src/main/resources/Items/lamp.png)
+<img src="src/main/resources/Items/lamp.png" width="80">
 
 The prison is dark. Use your lamp to illuminate the environment, but remember that it also affects the distance from which patrols can spot you.
 
 ### Ability (R)
 
-![Ability](src/main/resources/Ability/ability.png)
+<img src="src/main/resources/Ability/ability.png" width="80">
 
 Your magical cloak makes you invulnerable and undetectable while active. You cannot move until you deactivate it. After use, the cloak has a five-second cooldown, displayed in the bottom-right corner.
 
